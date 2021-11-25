@@ -9,3 +9,5 @@ def testing():
 
 def functionfromreindert():
     print("this was written by reindert")
+
+--merge samen
